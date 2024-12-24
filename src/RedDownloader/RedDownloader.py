@@ -12,7 +12,7 @@ import shutil
 import logging
 
 # External Imports | Required Packages
-from moviepy.editor import *
+from moviepy import *
 import requests
 from pytube import YouTube
 
